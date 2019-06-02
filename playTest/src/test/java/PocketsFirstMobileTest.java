@@ -1,8 +1,6 @@
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
 
 public class PocketsFirstMobileTest extends MobileAPI {
     public HomePage homePage;
@@ -58,13 +56,44 @@ public class PocketsFirstMobileTest extends MobileAPI {
 
     //Test case 5--
 
-    @Test
 
     public void moreClickTest(){
         sleepFor(10);
         clickById("com.cricbuzz.android:id/tab_home");
         sleepFor(2);
         homePage.clickMoreFooterButton();
+        sleepFor(2);
+
+    }
+
+    //Test case 6--
+
+    public void video1ClickTest(){
+        sleepFor(10);
+        clickById("com.cricbuzz.android:id/tab_home");
+        sleepFor(2);
+        homePage.clickVideo1Button();
+        sleepFor(2);
+
+    }
+
+    //Test case 7--
+
+    public void video2ClickTest(){
+        sleepFor(10);
+        clickById("com.cricbuzz.android:id/tab_home");
+        sleepFor(2);
+        homePage.clickVideo2FButton();
+        sleepFor(2);
+    }
+
+    //Test case 8--
+
+    public void team1ClickTest(){
+        sleepFor(10);
+        clickById("com.cricbuzz.android:id/tab_home");
+        sleepFor(2);
+        homePage.clickTeam1();
         sleepFor(2);
 
     }
