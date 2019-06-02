@@ -8,7 +8,7 @@
 
     <test name="First Mobile Test">
         <classes>
-            <class name="test.matches.MatchesTests"/>
+            <class name="test.news.TestNews"/>
         </classes>
     </test>
 </suite>
