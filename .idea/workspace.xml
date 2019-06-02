@@ -2,40 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a85f535-2b5e-456e-b3ef-cb6fcbedea87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playTest/src/test/java/test/matches/MatchesTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/src/main/java/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/MobileAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/base/MobileAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/base/MobileAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generic/target/generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/generic-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/src/main/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/src/test/resources/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/src/test/resources/TestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/classes/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/classes/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/playTest-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playTest/target/classes/matches/Matches.class" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/classes/matches/Matches.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playTest/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playTest/target/playTest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/playTest-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/FirstMobileTest/First Mobile Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/FirstMobileTest/First Mobile Test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/FirstMobileTest/First Mobile Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/FirstMobileTest/First Mobile Test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/old/FirstMobileTest/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playTest/target/test-classes/PocketsFirstMobileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/test-classes/PocketsFirstMobileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playTest/target/test-classes/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/test-classes/TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playTest/target/test-classes/test/matches/MatchesTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/playTest/target/test-classes/test/matches/MatchesTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,19 +66,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playTest/src/test/resources/TestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="187">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="185">
               <caret line="28" column="85" lean-forward="true" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1583#1584#0" expanded="true" />
+                <element signature="e#1612#1613#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="322">
+              <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="204">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playTest/src/test/java/test/matches/MatchesTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="159">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
@@ -170,12 +156,12 @@
         <option value="$PROJECT_DIR$/generic/src/main/java/MobileAPI.java" />
         <option value="$PROJECT_DIR$/playTest/src/test/java/matches/Matches.java" />
         <option value="$PROJECT_DIR$/playTest/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java" />
         <option value="$PROJECT_DIR$/playTest/src/test/java/MatchesTest.java" />
         <option value="$PROJECT_DIR$/playTest/src/test/resources/TestRunner.xml" />
-        <option value="$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java" />
+        <option value="$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java" />
         <option value="$PROJECT_DIR$/playTest/src/test/java/test/matches/MatchesTests.java" />
         <option value="$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java" />
+        <option value="$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java" />
       </list>
     </option>
   </component>
@@ -208,6 +194,11 @@
             <path>
               <item name="pocketsMobileTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="pocketsMobileTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pocketsMobileTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pocketsMobileTest" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pocketsMobileTest" type="b2602c69:ProjectViewProjectNode" />
@@ -379,34 +370,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 05m 59s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 10h 07m 24s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 07m 34s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 13h 39m 32s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 11m 38s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 13h 41m 43s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 11m 55s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 13h 49m 27s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PocketsFirstMobileTest_moreClickTest - 2019.06.01 at 17h 13m 06s.xml">
-      <configuration name="PocketsFirstMobileTest.moreClickTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 14m 51s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 14h 00m 26s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 16m 08s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 14h 03m 13s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.01 at 17h 19m 09s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 14h 05m 38s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 09h 58m 49s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 14h 25m 44s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 10h 00m 22s.xml">
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 14h 26m 22s.xml">
+      <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_wormi_IdeaProjects_pocketsMobileTest_playTest_src_test_resources_TestRunner_xml - 2019.06.02 at 14h 27m 25s.xml">
       <configuration name="C:/Users/wormi/IdeaProjects/pocketsMobileTest/playTest/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -424,7 +415,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -491,27 +482,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playTest/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/playTest/src/test/java/test/matches/MatchesTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="159">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
@@ -520,10 +494,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="-10569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playTest/src/test/java/PocketsFirstMobileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -532,8 +511,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="185">
           <caret line="28" column="85" lean-forward="true" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playTest/src/test/resources/TestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playTest/src/main/java/matches/Matches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

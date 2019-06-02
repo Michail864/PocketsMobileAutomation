@@ -13,7 +13,7 @@ public class MobileAPI  {
 
 
 
-        public AppiumDriver driver;
+        public static AppiumDriver driver = null;
         public WebDriverWait wait;
 
         @BeforeMethod
@@ -40,10 +40,11 @@ public class MobileAPI  {
             }
         }
 
-        public void clickByXpath(String locator) {
+        public void clickByXpathMob(String locator) {
             driver.findElement(By.xpath(locator)).click();
         }
-        public void clickById(String locator) {
+
+        public void clickByIdMob(String locator) {
             driver.findElement(By.id(locator)).click();
         }
     }
