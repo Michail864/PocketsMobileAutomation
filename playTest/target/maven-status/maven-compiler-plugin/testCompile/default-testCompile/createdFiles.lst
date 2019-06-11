@@ -1,2 +1,4 @@
-PocketsFirstMobileTest.class
+test\news\TestNews.class
+test\videos\VideosTest.class
 test\matches\MatchesTests.class
+PocketsFirstMobileTest.class

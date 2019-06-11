@@ -35,7 +35,6 @@ public class VideosTest extends MobileAPI {
 
     //Testcase 2 --
 
-    @Test
     public void testVideosCricHindi(){
         videos.videosSetUP();
         videos.clickCricHindi();

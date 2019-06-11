@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="FirstMobileTest" duration-ms="7" started-at="2019-06-02T18:02:24Z" finished-at="2019-06-02T18:02:24Z">
+  <suite name="FirstMobileTest" duration-ms="0" started-at="2019-06-09T17:45:08Z" finished-at="2019-06-09T17:45:08Z">
     <groups>
     </groups>
-    <test name="First Mobile Test" duration-ms="7" started-at="2019-06-02T18:02:24Z" finished-at="2019-06-02T18:02:24Z">
+    <test name="First Mobile Test" duration-ms="0" started-at="2019-06-09T17:45:08Z" finished-at="2019-06-09T17:45:08Z">
     </test> <!-- First Mobile Test -->
   </suite> <!-- FirstMobileTest -->
 </testng-results>
