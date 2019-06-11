@@ -15,7 +15,7 @@ public class ConnectToMySQL {
 
     public static Properties loadPropertiesForMe() throws IOException {
         Properties properties = new Properties();
-        InputStream inputStream = new FileInputStream("C:\\Users\\wormi\\IdeaProjects\\pocketsMobileTest\\generic\\src\\main\\resources\\database.properties");
+        InputStream inputStream = new FileInputStream("C:\\Users\\wormi\\IdeaProjects\\pocketsMobileTest\\generic\\src\\main\\resources\\data.properties");
         properties.load(inputStream);
         inputStream.close();
         return properties;
